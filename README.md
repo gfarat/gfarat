@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Azure
+
+## Azure Network
+
+<!-- TOC -->
+- Extend your on-premises subnets into Azure using extended network for Azure (VXLAN)
+  
+  [Azure Extended Network](https://github.com/gfarat/AzureExtendedNetwork)
+
+<!-- /TOC -->
