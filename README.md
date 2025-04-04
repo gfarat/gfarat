@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 - Extend your on-premises subnets into Azure using extended network for Azure (VXLAN)
   
   [Azure Extended Network](https://github.com/gfarat/AzureExtendedNetwork)
+
+- Azure Load Balancer Upgrade Basic to Standard lab
   
   [Azure Load Balancer Upgrade](https://github.com/gfarat/Azure-Load-Balancer-Upgrade)
 <!-- /TOC -->
